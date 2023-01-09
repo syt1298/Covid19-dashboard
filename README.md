@@ -1,4 +1,4 @@
-# Covid19-dashboard using pythona nd Django
+# Covid19-dashboard using python and Django
 
 ## Introduction
 
